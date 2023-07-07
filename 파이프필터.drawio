@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:32:22.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dF337OhkUIm1vpkn8x2V" version="21.5.0" type="google">
+  <diagram name="페이지-1" id="ekO2mwe6BIb6oPsK-Yoh">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="io-rsXQ4Gv7nKQRQmEs2-1" target="io-rsXQ4Gv7nKQRQmEs2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-1" value="데이터 수집" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="io-rsXQ4Gv7nKQRQmEs2-6" target="io-rsXQ4Gv7nKQRQmEs2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-6" value="데이터 전처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="io-rsXQ4Gv7nKQRQmEs2-7" target="io-rsXQ4Gv7nKQRQmEs2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-7" value="CNN GRU 모델 학습" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io-rsXQ4Gv7nKQRQmEs2-8" value="예측" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
